@@ -35,7 +35,7 @@ useEffect(() => {
             layout="vertical"
             onFinish={onFinish}
           >
-            <h1><b>SHEY POS</b></h1>
+            <h1><b>A-Z MERN STORE</b></h1>
             <hr />
             <h3>Login</h3>
           

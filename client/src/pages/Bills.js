@@ -124,13 +124,13 @@ function Bills() {
             <div className="d-flex justify-content-between bill-header pb-2">
               <div>
                 <h1>
-                  <b>SR MARKET</b>
+                  <b>A-Z MERN STORE</b>
                 </h1>
               </div>
               <div>
-                <p>Hyderabd</p>
-                <p>Amberpet 500013</p>
-                <p>9989649278</p>
+                <p>Karnal</p>
+                <p>Haryana 132001</p>
+                <p>9996730879</p>
               </div>
             </div>
             <div className="bill-customer-details my-2">
@@ -159,7 +159,7 @@ function Bills() {
 
             <div className="text-center">
                   <p>Thanks</p>
-                  <p>Visit Again :)</p>
+                  <p>Visit Again</p>
             </div>
           </div>
 

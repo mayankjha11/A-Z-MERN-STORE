@@ -155,9 +155,10 @@ function Items() {
 
             <Form.Item name="category" label="Category">
               <Select>
-                <Select.Option value="fruits">Fruits</Select.Option>
-                <Select.Option value="vegetables">Vegetables</Select.Option>
-                <Select.Option value="meat">Meat</Select.Option>
+                <Select.Option value="Electronics">Electronics</Select.Option>
+                <Select.Option value="Clothing">Clothing</Select.Option>
+                <Select.Option value="Shoes">Shoes</Select.Option>
+                <Select.Option value="Grocery">Grocery</Select.Option>
               </Select>
             </Form.Item>
 
