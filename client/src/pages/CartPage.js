@@ -116,7 +116,7 @@ function CartPage() {
       <div className="d-flex justify-content-end flex-column align-items-end">
         <div className="subtotal">
           <h3>
-            SUB TOTAL : <b>{subTotal} $/-</b>
+            SUB TOTAL : <b>Rs {subTotal} /-</b>
           </h3>
         </div>
 
